@@ -1,0 +1,20 @@
+{
+    "weibo": {
+        "desc": "我们是一颗颗蒸不熟、炒不烂、煮不化的铜豌豆",
+        "link": "http://ttr.limijiaoyin.com",
+        "shortLink": "http://ttr.limijiaoyin.com",
+        "imgUrl": "http://i5.tietuku.com/ba62662f544d0bb2.jpg"
+    },
+    "wechatTimelineConfig": {
+        "title": "分享到朋友圈的标题",
+        "desc": "床前明月光，花落知多少",
+        "link": "http://ttr.limijiaoyin.com",
+        "imgUrl": "http://i5.tietuku.com/ba62662f544d0bb2.jpg"
+    },
+    "wechatFriendConfig": {
+        "title": "分享给朋友的标题",
+        "desc": "月出惊山鸟，时鸣春涧中",
+        "link": "http://ttr.limijiaoyin.com",
+        "imgUrl": "http://i5.tietuku.com/ba62662f544d0bb2.jpg"
+    }
+}

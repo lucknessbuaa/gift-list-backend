@@ -445,5 +445,31 @@
             "link": "http://ttr.limijiaoyin.com/?id=huoxing",
             "imgUrl": "http://i5.tietuku.com/ba62662f544d0bb2.jpg"
         }
+    },
+
+    "pcConfig": {
+        "banners": [
+            "http://i5.tietuku.com/ba62662f544d0bb2.jpg",
+            "http://i5.tietuku.com/ba62662f544d0bb2.jpg",
+            "http://i5.tietuku.com/ba62662f544d0bb2.jpg",
+            "http://i5.tietuku.com/ba62662f544d0bb2.jpg",
+            "http://i5.tietuku.com/ba62662f544d0bb2.jpg"   
+        ],
+        "content": {
+            "logo": {
+                "desc": "豌豆荚一览",
+                "image": "http://i5.tietuku.com/ba62662f544d0bb2.jpg"
+            },
+            "title": "火星漫游指南",
+            "enTitle": "THE HITCHHIKER'S GUIDE TO MARS",
+            "part1": "[辐射] 废土食人考",
+            "part2": "诗与哲理的 Pink Floyd",
+            "part3": "这个世界上",
+            "part4": "不会再有大阿哥了",
+            "part5": "EVA 与希伯来圣经",
+            "part6": "世界厕所日",
+            "part7": "本月人们",
+            "part8": "都在讨论这些事"
+        }
     }
 }

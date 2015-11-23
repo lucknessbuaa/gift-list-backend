@@ -7,18 +7,25 @@ import json
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def getConfig(request):
-    versionName = request.GET.get('id')
+    fileId = request.GET.get('id')
     configPath = os.path.join(BASE_DIR, 'json/config.json')
     config = json.load(open(configPath))
-    name = config[versionName];
+    name = config[fileId];
     if name:
-        fileName = '%s.json' % name
-        filePath = os.path.join(BASE_DIR, 'json/%s' % fileName);
-        data = json.load(open(filePath))
         return JsonResponse({
-            'data': data
+            'id': name 
         })
     else:
         return JsonResponse({
-            'data': {}    
+            '': ''  
         })
+
+def getData(request):
+    id = request.GET.get('id')
+    fileName = id + '.json'
+    filePath = os.path.join(BASE_DIR, 'json/%s' % fileName);
+    data = json.load(open(filePath))
+    return JsonResponse({
+        'data': data     
+    })
+

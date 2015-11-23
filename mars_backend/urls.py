@@ -7,4 +7,5 @@ import portal.views
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^api/config$', portal_views.getConfig),
+    url(r'^api/data$', portal_views.getData),
 ]

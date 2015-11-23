@@ -7,18 +7,9 @@ import json
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def getConfig(request):
-    fileId = request.GET.get('id')
     configPath = os.path.join(BASE_DIR, 'json/config.json')
     config = json.load(open(configPath))
-    name = config[fileId];
-    if name:
-        return JsonResponse({
-            'id': name 
-        })
-    else:
-        return JsonResponse({
-            '': ''  
-        })
+    return JsonResponse(config)
 
 def getData(request):
     id = request.GET.get('id')

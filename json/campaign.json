@@ -5,6 +5,7 @@
             "titleOne": "豌豆荚一览",
             "titleTwo": "圣诞礼物清单",
             "content": "在豌豆荚一览中有今年最全的礼物清单。<br>我们从＊＊家应用搜索到＊＊条，<br>并进行了分类，<br>帮你在最短的时间内发现最适合的礼物，<br>请享用！<br>",
+            "icon": "/img/icon-gift.png",
             "background": "http://i12.tietuku.com/f6c2db41a99a2cb4.jpg"
         },
         "overview": [{
@@ -40,22 +41,22 @@
                 "image": "/img/detail-example-1.png",
                 "titleOne": "商业周刊",
                 "titleTwo": "挑这6款产品做礼物能凸显你的调性",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "/img/detail-example-2.png",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "/img/detail-example-3.png",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "即刻快讯",
                 "titleTwo": "黑五要来了，我们给你准备了11款适合送给女朋友的科技礼物",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }]
         }, {
             "review": {
@@ -74,17 +75,17 @@
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "商业周刊",
                 "titleTwo": "挑这6款产品做礼物能凸显你的调性",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "即刻快讯",
                 "titleTwo": "黑五要来了，我们给你准备了11款适合送给女朋友的科技礼物",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }]
         }, {
             "review": {
@@ -103,17 +104,17 @@
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "商业周刊",
                 "titleTwo": "挑这6款产品做礼物能凸显你的调性",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "即刻快讯",
                 "titleTwo": "黑五要来了，我们给你准备了11款适合送给女朋友的科技礼物",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }]
         }, {
             "review": {
@@ -132,22 +133,22 @@
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "商业周刊",
                 "titleTwo": "挑这6款产品做礼物能凸显你的调性",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "即刻快讯",
                 "titleTwo": "黑五要来了，我们给你准备了11款适合送给女朋友的科技礼物",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }]
         }, {
             "review": {
@@ -166,22 +167,22 @@
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "商业周刊",
                 "titleTwo": "挑这6款产品做礼物能凸显你的调性",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "即刻快讯",
                 "titleTwo": "黑五要来了，我们给你准备了11款适合送给女朋友的科技礼物",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }]
         }, {
             "review": {
@@ -200,17 +201,17 @@
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "商业周刊",
                 "titleTwo": "挑这6款产品做礼物能凸显你的调性",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "什么值得买",
                 "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }, {
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
                 "titleOne": "即刻快讯",
                 "titleTwo": "黑五要来了，我们给你准备了11款适合送给女朋友的科技礼物",
-                "url": "http://www.baidu.com"
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
             }]
         }]
     },

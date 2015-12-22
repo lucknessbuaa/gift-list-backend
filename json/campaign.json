@@ -34,8 +34,10 @@
             },
             "summary": {
                 "text1": "来自 ",
-                "number": 4,
-                "text2": " 家应用的清单一共包含＊＊个礼物"
+                "number1": 4,
+                "text2": " 家应用的清单一共包含 ",
+                "number2": 5,
+                "text3": " 个礼物"
             },
             "cards":[{
                 "image": "/campaign/gift-list/img/detail-example-1.png",
@@ -68,8 +70,10 @@
             },
             "summary": {
                 "text1": "来自 ",
-                "number": 4,
-                "text2": " 家应用的清单一共包含＊＊个礼物"
+                "number1": 4,
+                "text2": " 家应用的清单一共包含 ",
+                "number2": 5,
+                "text3": " 个礼物"
             },
             "cards":[{
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
@@ -97,8 +101,10 @@
             },
             "summary": {
                 "text1": "来自 ",
-                "number": 4,
-                "text2": " 家应用的清单一共包含＊＊个礼物"
+                "number1": 4,
+                "text2": " 家应用的清单一共包含 ",
+                "number2": 5,
+                "text3": " 个礼物"
             },
             "cards":[{
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
@@ -126,42 +132,10 @@
             },
             "summary": {
                 "text1": "来自 ",
-                "number": 4,
-                "text2": " 家应用的清单一共包含＊＊个礼物"
-            },
-            "cards":[{
-                "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
-                "titleOne": "商业周刊",
-                "titleTwo": "挑这6款产品做礼物能凸显你的调性",
-                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
-            }, {
-                "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
-                "titleOne": "什么值得买",
-                "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
-            }, {
-                "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
-                "titleOne": "什么值得买",
-                "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
-                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
-            }, {
-                "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
-                "titleOne": "即刻快讯",
-                "titleTwo": "黑五要来了，我们给你准备了11款适合送给女朋友的科技礼物",
-                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
-            }]
-        }, {
-            "review": {
-                "titleOne": "此品类人气最高的商品",
-                "titleTwo": "GeekCook欧式木质壁钟",
-                "content": "挑这6款产品做礼物<br>能凸显你的调性",
-                "password": "#淘口令#长按复制这条信息，打开手机淘宝即可看到[ New Balance/NB 501系列女鞋复古鞋跑步鞋休闲鞋WL501SUB]http://b.mashort.cn/h.4f176?sm=cff254",
-                "icon": "/campaign/gift-list/img/taobao-icon-example.png"
-            },
-            "summary": {
-                "text1": "来自 ",
-                "number": 4,
-                "text2": " 家应用的清单一共包含＊＊个礼物"
+                "number1": 4,
+                "text2": " 家应用的清单一共包含 ",
+                "number2": 5,
+                "text3": " 个礼物"
             },
             "cards":[{
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
@@ -194,8 +168,46 @@
             },
             "summary": {
                 "text1": "来自 ",
-                "number": 4,
-                "text2": " 家应用的清单一共包含＊＊个礼物"
+                "number1": 4,
+                "text2": " 家应用的清单一共包含 ",
+                "number2": 5,
+                "text3": " 个礼物"
+            },
+            "cards":[{
+                "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
+                "titleOne": "商业周刊",
+                "titleTwo": "挑这6款产品做礼物能凸显你的调性",
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
+            }, {
+                "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
+                "titleOne": "什么值得买",
+                "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
+            }, {
+                "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
+                "titleOne": "什么值得买",
+                "titleTwo": "更有针对性送礼，Apple苹果中国官网上线“加入礼物指南”",
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
+            }, {
+                "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
+                "titleOne": "即刻快讯",
+                "titleTwo": "黑五要来了，我们给你准备了11款适合送给女朋友的科技礼物",
+                "url": "http://www.wandoujia.com/items/-7695511116638711433?testmode=1"
+            }]
+        }, {
+            "review": {
+                "titleOne": "此品类人气最高的商品",
+                "titleTwo": "GeekCook欧式木质壁钟",
+                "content": "挑这6款产品做礼物<br>能凸显你的调性",
+                "password": "#淘口令#长按复制这条信息，打开手机淘宝即可看到[ New Balance/NB 501系列女鞋复古鞋跑步鞋休闲鞋WL501SUB]http://b.mashort.cn/h.4f176?sm=cff254",
+                "icon": "/campaign/gift-list/img/taobao-icon-example.png"
+            },
+            "summary": {
+                "text1": "来自 ",
+                "number1": 4,
+                "text2": " 家应用的清单一共包含 ",
+                "number2": 5,
+                "text3": " 个礼物"
             },
             "cards":[{
                 "image": "http://i5.tietuku.com/89efc47fee8f3aa9.jpg",
